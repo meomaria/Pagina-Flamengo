@@ -1,8 +1,8 @@
 #banner {
-	width: 50%;
-	/*display: flex;*/
- 	/*justify-content: center;*/
-	 display: inline-block
+	width: 100%;
+	display: flex;
+ 	justify-content: center;
+	display: inline-block
 }
 
 .principal{
